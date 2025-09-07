@@ -3,7 +3,9 @@
 
   "item.masyumod.masyu_ore" : "MasyuOre",
   "item.masyumod.masyu_ingot" : "MasyuIngot",
+  "item.masyumod.combine_ingot": "CombineIngot",
 
   "block.masyumod.masyu_block" : "MasyuBlock",
-  "block.masyumod.masyu_block_ore" : "MasyuOreBlock"
+  "block.masyumod.masyu_block_ore" : "MasyuOreBlock",
+  "block.masyumod.combine_block" : "CombineBlock"
 }

@@ -13,6 +13,9 @@ public class MasyuModTags {
     public static class Blocks{
 
         public static final TagKey<Block> NEEDS_MASYU_TOOL = tag("needs_masyu_tool");
+
+        public static final TagKey<Block> NEEDS_COMBINE_TOOL = tag("needs_combine_tool");
+
         private static TagKey<Block> tag (String name){
             return BlockTags.create(new ResourceLocation(MasyuMod.MOD_ID,name));
         }

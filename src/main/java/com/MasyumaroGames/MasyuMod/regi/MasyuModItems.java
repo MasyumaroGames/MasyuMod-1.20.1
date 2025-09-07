@@ -1,5 +1,6 @@
 package com.MasyumaroGames.MasyuMod.regi;
 
+import com.MasyumaroGames.MasyuMod.item.ItemCombineIngot;
 import com.MasyumaroGames.MasyuMod.item.ItemMasyuIngot;
 import com.MasyumaroGames.MasyuMod.item.ItemMasyuOre;
 import com.MasyumaroGames.MasyuMod.main.MasyuMod;
@@ -15,4 +16,6 @@ public class MasyuModItems {
     public static final RegistryObject<Item> MASYU_ORE = ITEMS.register("masyu_ore", ItemMasyuOre::new);
 
     public static final RegistryObject<Item> MASYU_INGOT = ITEMS.register("masyu_ingot", ItemMasyuIngot::new);
+
+    public static final RegistryObject<Item> COMBINE_INGOT = ITEMS.register("combine_ingot", ItemCombineIngot::new);
 }

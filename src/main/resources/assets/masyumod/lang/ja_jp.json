@@ -3,7 +3,9 @@
 
   "item.masyumod.masyu_ore" : "ましゅ原石",
   "item.masyumod.masyu_ingot" : "ましゅインゴット",
+  "item.masyumod.combine_ingot" : "合体インゴット",
 
   "block.masyumod.masyu_block" : "ましゅブロック",
-  "block.masyumod.masyu_block_ore" : "ましゅ鉱石"
+  "block.masyumod.masyu_block_ore" : "ましゅ鉱石",
+  "block.masyumod.combine_block" : "合体鉱石ブロック"
 }

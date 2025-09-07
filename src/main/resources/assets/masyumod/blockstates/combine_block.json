@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "masyumod:block/combine_block"
+    }
+  }
+}
