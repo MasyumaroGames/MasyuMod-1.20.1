@@ -1,5 +1,6 @@
 {
   "itemGroup.masyu_main" : "MasyuMOD",
+  "itemGroup.masyu_tool" : "MasyuTool",
 
   "item.masyumod.masyu_ore" : "MasyuOre",
   "item.masyumod.masyu_ingot" : "MasyuIngot",

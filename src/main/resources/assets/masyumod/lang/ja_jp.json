@@ -1,5 +1,6 @@
 {
   "itemGroup.masyu_main" : "ましゅMOD",
+  "itemGroup.masyu_tool" : "ましゅツール",
 
   "item.masyumod.masyu_ore" : "ましゅ原石",
   "item.masyumod.masyu_ingot" : "ましゅインゴット",
