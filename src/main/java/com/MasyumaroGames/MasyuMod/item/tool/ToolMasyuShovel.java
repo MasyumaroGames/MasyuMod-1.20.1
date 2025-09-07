@@ -6,6 +6,6 @@ import net.minecraft.world.item.Tier;
 
 public class ToolMasyuShovel extends ShovelItem {
     public ToolMasyuShovel() {
-        super(MasyuModTiers.MASYU, 1, -2.8F, new Properties().fireResistant().rarity(Rarity.RARE));
+        super(MasyuModTiers.MASYU, 1.5F, -3.0F, new Properties().fireResistant().rarity(Rarity.RARE));
     }
 }

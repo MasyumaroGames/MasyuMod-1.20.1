@@ -6,6 +6,6 @@ import net.minecraft.world.item.Tier;
 
 public class ToolMasyuHoe extends HoeItem {
     public ToolMasyuHoe() {
-        super(MasyuModTiers.MASYU, 1, -2.8F, new Properties().fireResistant().rarity(Rarity.RARE));
+        super(MasyuModTiers.MASYU, -3, 0.0F, new Properties().fireResistant().rarity(Rarity.RARE));
     }
 }
