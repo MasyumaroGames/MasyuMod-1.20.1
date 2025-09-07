@@ -11,6 +11,8 @@ import net.minecraft.world.level.block.Block;
 public class MasyuModTags {
 
     public static class Blocks{
+
+        public static final TagKey<Block> NEEDS_MASYU_TOOL = tag("needs_masyu_tool");
         private static TagKey<Block> tag (String name){
             return BlockTags.create(new ResourceLocation(MasyuMod.MOD_ID,name));
         }
