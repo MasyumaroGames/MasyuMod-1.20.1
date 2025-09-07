@@ -6,10 +6,12 @@
     "###"
   ],
   "key": {
-    "#": "masyumod:masyu_ingot"
+    "#": {
+      "item": "masyumod:masyu_ingot"
+    }
   },
   "result": {
-    "id": "masyumod:masyu_block",
+    "item": "masyumod:masyu_block",
     "count": 1
   }
 }

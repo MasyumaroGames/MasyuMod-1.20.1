@@ -6,10 +6,12 @@
     "###"
   ],
   "key": {
-    "#": "masyumod:combine_ingot"
+    "#": {
+      "item": "masyumod:combine_ingot"
+    }
   },
   "result": {
-    "id": "masyumod:combine_block",
+    "item": "masyumod:combine_block",
     "count": 1
   }
 }
