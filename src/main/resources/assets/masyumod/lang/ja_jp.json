@@ -7,5 +7,11 @@
 
   "block.masyumod.masyu_block" : "ましゅブロック",
   "block.masyumod.masyu_block_ore" : "ましゅ鉱石",
-  "block.masyumod.combine_block" : "合体鉱石ブロック"
+  "block.masyumod.combine_block" : "合体鉱石ブロック",
+
+  "item.masyumod.masyu_pickaxe" : "ましゅのつるはし",
+  "item.masyumod.masyu_axe" : "ましゅの斧",
+  "item.masyumod.masyu_shovel" : "ましゅのシャベル",
+  "item.masyumod.masyu_sword" : "ましゅの剣",
+  "item.masyumod.masyu_hoe" : "ましゅのクワ"
 }

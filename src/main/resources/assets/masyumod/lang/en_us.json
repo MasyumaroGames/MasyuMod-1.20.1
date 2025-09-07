@@ -7,5 +7,11 @@
 
   "block.masyumod.masyu_block" : "MasyuBlock",
   "block.masyumod.masyu_block_ore" : "MasyuOreBlock",
-  "block.masyumod.combine_block" : "CombineBlock"
+  "block.masyumod.combine_block" : "CombineBlock",
+
+  "item.masyumod.masyu_pickaxe" : "MasyuPickaxe",
+  "item.masyumod.masyu_axe" : "MasyuAxe",
+  "item.masyumod.masyu_shovel" : "MasyuShovel",
+  "item.masyumod.masyu_sword" : "MasyuSword",
+  "item.masyumod.masyu_hoe" : "MasyuHoe"
 }
