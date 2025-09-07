@@ -13,9 +13,9 @@ import java.util.List;
 
 public class MasyuModTiers {
 
-    public static final ForgeTier COMBINE = new ForgeTier(5,2300,8.0F,3.0F,12, MasyuModTags.Blocks.NEEDS_COMBINE_TOOL,()-> Ingredient.of(MasyuModItems.COMBINE_INGOT.get()));
+    public static final ForgeTier COMBINE = new ForgeTier(5,2300,8.0F,6.0F,12, MasyuModTags.Blocks.NEEDS_COMBINE_TOOL,()-> Ingredient.of(MasyuModItems.COMBINE_INGOT.get()));
 
-    public static final ForgeTier MASYU = new ForgeTier(6,5000,20.0F,6.0F,22, MasyuModTags.Blocks.NEEDS_MASYU_TOOL,()-> Ingredient.of(MasyuModItems.MASYU_INGOT.get()));
+    public static final ForgeTier MASYU = new ForgeTier(6,5124,20.0F,20.0F,66, MasyuModTags.Blocks.NEEDS_MASYU_TOOL,()-> Ingredient.of(MasyuModItems.MASYU_INGOT.get()));
 
     static {
         TierSortingRegistry.registerTier(MASYU,new ResourceLocation(MasyuMod.MOD_ID,"masyu"), List.of(Tiers.NETHERITE),List.of());
