@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "masyumod:combine_block"
+  ],
+  "result": {
+    "id": "masyumod:combine_ingot",
+    "count": 9
+  }
+}

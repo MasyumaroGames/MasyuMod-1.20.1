@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": "masyumod:combine_ingot"
+  },
+  "result": {
+    "id": "masyumod:combine_block",
+    "count": 1
+  }
+}
