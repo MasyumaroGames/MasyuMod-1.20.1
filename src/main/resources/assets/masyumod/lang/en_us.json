@@ -1,0 +1,9 @@
+{
+  "itemGroup.masyu_main" : "MasyuMOD",
+
+  "item.masyumod.masyu_ore" : "MasyuOre",
+  "item.masyumod.masyu_ingot" : "MasyuIngot",
+
+  "block.masyumod.masyu_block" : "MasyuBlock",
+  "block.masyumod.masyu_block_ore" : "MasyuOreBlock"
+}

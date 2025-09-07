@@ -4,5 +4,6 @@
   "item.masyumod.masyu_ore" : "ましゅ原石",
   "item.masyumod.masyu_ingot" : "ましゅインゴット",
 
-  "block.masyumod.masyu_block" : "ましゅブロック"
+  "block.masyumod.masyu_block" : "ましゅブロック",
+  "block.masyumod.masyu_block_ore" : "ましゅ鉱石"
 }
