@@ -8,6 +8,7 @@ public class BlockMasyuBlock extends Block {
         super(Properties.of()
                 .strength(5.0F,1000.0F)
                 .sound(SoundType.NETHERITE_BLOCK)
+                .requiresCorrectToolForDrops()
                 .lightLevel((a) -> 1)
         );
     }
