@@ -18,10 +18,10 @@ public class MasyuModTiers {
     public static final ForgeTier MASYU = new ForgeTier(6,5000,20.0F,6.0F,22, MasyuModTags.Blocks.NEEDS_MASYU_TOOL,()-> Ingredient.of(MasyuModItems.MASYU_INGOT.get()));
 
     static {
-        TierSortingRegistry.registerTier(MASYU,new ResourceLocation(MasyuMod.MOD_ID,"masyu"), List.of(COMBINE),List.of());
+        TierSortingRegistry.registerTier(MASYU,new ResourceLocation(MasyuMod.MOD_ID,"masyu"), List.of(Tiers.NETHERITE),List.of());
     }
 
     static {
-        TierSortingRegistry.registerTier(COMBINE,new ResourceLocation(MasyuMod.MOD_ID,"combine"), List.of(Tiers.NETHERITE),List.of(MASYU));
+        TierSortingRegistry.registerTier(COMBINE,new ResourceLocation(MasyuMod.MOD_ID,"combine"), List.of(Tiers.DIAMOND),List.of(Tiers.NETHERITE));
     }
 }

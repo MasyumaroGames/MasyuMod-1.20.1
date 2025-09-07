@@ -26,4 +26,16 @@ public class MasyuModTabs {
                         })
                         .build();
             });
+    public static final RegistryObject<CreativeModeTab> MASYU_TOOL = MOD_TABS.register("masyu_tool",
+            () -> {
+                return CreativeModeTab.builder()
+                        .icon(() -> new ItemStack(MasyuModItems.MASYU_PICKAXE.get()))
+                        .title(Component.translatable("itemGroup.masyu_tool"))
+                        .displayItems((param, output) -> {
+                            for (Item item : MasyuTool.items) {
+                                output.accept(item);
+                            }
+                        })
+                        .build();
+            });
 }

@@ -12,7 +12,6 @@ public class MasyuMain {
             MasyuModItems.MASYU_ORE.get(),
             MasyuModBlocks.BlockItems.MASYU_BLOCK_ORE.get(),
             MasyuModItems.MASYU_INGOT.get(),
-            MasyuModBlocks.BlockItems.MASYU_BLOCK.get(),
-            MasyuModItems.MASYU_PICKAXE.get()
+            MasyuModBlocks.BlockItems.MASYU_BLOCK.get()
     };
 }
