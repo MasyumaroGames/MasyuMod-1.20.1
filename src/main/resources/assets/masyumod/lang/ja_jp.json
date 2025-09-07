@@ -1,0 +1,8 @@
+{
+  "itemGroup.masyu_main" : "ましゅMOD",
+
+  "item.masyumod.masyu_ore" : "ましゅ原石",
+  "item.masyumod.masyu_ingot" : "ましゅインゴット",
+
+  "block.masyumod.masyu_block" : "ましゅブロック"
+}
