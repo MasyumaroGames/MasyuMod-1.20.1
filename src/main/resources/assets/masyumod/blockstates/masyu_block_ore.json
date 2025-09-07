@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "masyumod:block/masyu_block_ore"
+    }
+  }
+}

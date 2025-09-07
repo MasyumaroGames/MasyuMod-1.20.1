@@ -18,6 +18,8 @@ public class MasyuModBlocks {
 
         public static final RegistryObject<Block> MASYU_BLOCK = BLOCKS.register("masyu_block", BlockMasyuBlock::new);
 
+        public static final RegistryObject<Block> MASYU_BLOCK_ORE = BLOCKS.register("masyu_block_ore", BlockMasyuBlock::new);
+
     }
     public static class BlockItems{
 
@@ -25,5 +27,8 @@ public class MasyuModBlocks {
 
         public static final RegistryObject<Item> MASYU_BLOCK = BLOCK_ITEMS.register("masyu_block"
                 , () -> new BlockItem(Blocks.MASYU_BLOCK.get(), new Item.Properties().fireResistant().rarity(Rarity.RARE)));
+
+        public static final RegistryObject<Item> MASYU_BLOCK_ORE = BLOCK_ITEMS.register("masyu_block_ore"
+                , () -> new BlockItem(Blocks.MASYU_BLOCK_ORE.get(), new Item.Properties().fireResistant().rarity(Rarity.RARE)));
     }
 }
